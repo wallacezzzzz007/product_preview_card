@@ -26,7 +26,7 @@ Designing a web page for product preview card.
 ### Links
 
 - Solution URL: [https://github.com/wallacezzzzz007/product_preview_card](https://github.com/wallacezzzzz007/product_preview_card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://wallacezzzzz007.github.io/product_preview_card/](https://wallacezzzzz007.github.io/product_preview_card/)
 
 ## My process
 
