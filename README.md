@@ -34,6 +34,7 @@ Designing a web page for product preview card.
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Bootstrap
 - Flexbox
 - CSS Grid
 
