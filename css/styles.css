@@ -19,8 +19,6 @@ body {
 .card {
     border-radius: 2%;
     max-width: 75%;
-    
-    
 }
 
 /* card img */
@@ -71,4 +69,18 @@ body {
 
 .btn:hover {
     background: hsl(158, 39%, 53%);
+}
+
+@media (max-width:987px) {
+    .card{
+        border-radius: 2%;
+    }
+    
+    .card-img {
+        border-radius: 2% 2% 0 0;
+    }
+
+    .ori-price {
+        padding: 0 10%;
+    }
 }
